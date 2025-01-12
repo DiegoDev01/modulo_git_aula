@@ -9,5 +9,4 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 ## [0.0.1] - 2025-01-08
 
 ### Adicionado
-
 - Added changelog.md
